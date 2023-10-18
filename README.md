@@ -4,9 +4,7 @@
 </a>
 </header>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=300&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=50&fontColor=f6d9f6&<a href="https://www.instagram.com/_._melina_._._">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=300&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=50&fontColor=f6d9f6)
 
 <!--
 **melisen/melisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
