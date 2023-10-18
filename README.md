@@ -1,4 +1,6 @@
-<header>
+
+
+![<header>
   <a href="https://www.instagram.com/_._melina_._._">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png" />
 </a>
@@ -8,9 +10,7 @@
     <a href="">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-1024.png" />
 </a>
-</header>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=300&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=50&fontColor=f6d9f6)
+</header>](https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=300&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=50&fontColor=f6d9f6)
 
 <!--
 **melisen/melisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
