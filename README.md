@@ -2,6 +2,9 @@
   <a href="https://www.instagram.com/_._melina_._._">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png" />
 </a>
+  <a href="https://www.linkedin.com/in/melina-senorans-perez/">
+  <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-1024.png" />
+</a>
 </header>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=300&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=50&fontColor=f6d9f6)
