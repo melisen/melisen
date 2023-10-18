@@ -6,7 +6,7 @@
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/56-linkedin-1024.png" />
 </a>
     <a href="">
-  <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-1024.png" />
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-1024.png" />
 </a>
 </header>
 
