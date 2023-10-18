@@ -1,7 +1,6 @@
 <header>
   <a href="https://www.instagram.com/_._melina_._._">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png)
-"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png" />
 </a>
 </header>
 
