@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=300&section=header&text=capsule%20render&fontSize=90&fontColor:f6d9f6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=300&section=header&text=capsule%20render&fontSize=90&fontColor=f6d9f6)
 
 <!--
 **melisen/melisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
