@@ -9,6 +9,8 @@
     <a href="https://twitter.com/MelinaSenorans">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-1024.png" />
 </a>
+  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 </header>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=300&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=50&fontColor=f6d9f6&desc=melisen)
