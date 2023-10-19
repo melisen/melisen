@@ -15,7 +15,7 @@
   <img height="50" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
  
-<h3> <span><img height="50" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=Gmail&logoColor=white" /> </span> melisenoransperez@gmail.com </h3>
+<h3> <span><img height="25" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=Gmail&logoColor=red" /> </span> melisenoransperez@gmail.com </h3>
 </div>
  
 
