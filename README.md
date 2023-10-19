@@ -10,7 +10,7 @@
   <img height="50" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://github.com/melisen">
-  <img height="25" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
  
 
@@ -19,7 +19,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=300&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=50&fontColor=f6d9f6&desc=melisen)
 
 
-<h3> <span><img height="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" /> </span> melisenoransperez@gmail.com </h3>
+<h3> <span><img height="25" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" /> </span> melisenoransperez@gmail.com </h3>
 
 
 <!--
