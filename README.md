@@ -17,6 +17,41 @@
  
 <h1> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h1>
 </div>
+
+<div>
+  
+            <i class="devicon-bootstrap-plain-wordmark"></i>
+            <i class="devicon-html5-plain-wordmark"></i>            
+            <i class="devicon-sass-original"></i>          
+            <i class="devicon-figma-plain"></i>            
+            <i class="devicon-materialui-plain"></i>          
+            <i class="devicon-javascript-plain"></i>            
+            <i class="devicon-react-original-wordmark"></i>          
+          
+          
+          
+            <i class="devicon-github-original-wordmark"></i>            
+            <i class="devicon-nodejs-plain-wordmark"></i>          
+            <i class="devicon-mongodb-plain-wordmark"></i>            
+            <i class="devicon-mysql-plain-wordmark"></i>          
+          <i class="devicon-express-original"></i>
+          <i class="devicon-git-plain-wordmark"></i>
+          
+            <i class="devicon-slack-plain-wordmark"></i>
+            
+            <i class="devicon-trello-plain-wordmark"></i>
+          
+            <i class="devicon-socketio-original-wordmark"></i>
+          
+            <i class="devicon-vscode-plain-wordmark"></i>
+          
+            <i class="devicon-webpack-plain-wordmark"></i>
+          
+          
+          
+            <i class="devicon-npm-original-wordmark"></i>
+          
+</div>
  
 
 
