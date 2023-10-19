@@ -4,7 +4,7 @@
   <img height="50" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
   <a href="https://www.linkedin.com/in/melina-senorans-perez/">
-  <img height="50" src="https://img.shields.io/badge/linkedin?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
     <a href="https://twitter.com/MelinaSenorans">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-1024.png" />
