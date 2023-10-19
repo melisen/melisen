@@ -18,9 +18,10 @@
 </a>
  
 <h1> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" />
+ <i class="devicon-bootstrap-plain-wordmark"></i>
 </div>
 
-<div>
   
             <i class="devicon-bootstrap-plain-wordmark"></i>
             <i class="devicon-html5-plain-wordmark"></i>            
@@ -49,13 +50,12 @@
           
             <i class="devicon-webpack-plain-wordmark"></i>
           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" />
+            
           
           
           
             <i class="devicon-npm-original-wordmark"></i>
           
-</div>
  
 
 
