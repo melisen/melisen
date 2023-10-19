@@ -1,9 +1,12 @@
 
             
           
+           
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=300&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=50&fontColor=f6d9f6&desc=melisen)
 
 <div align="center">
+             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
   <a href="https://www.instagram.com/_._melina_._._">
   <img height="60" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
@@ -23,7 +26,7 @@
 </div>
 
   
-            <i class="devicon-bootstrap-plain-wordmark"></i>
+           
             <i class="devicon-html5-plain-wordmark"></i>            
             <i class="devicon-sass-original"></i>          
             <i class="devicon-figma-plain"></i>            
@@ -49,7 +52,7 @@
             <i class="devicon-vscode-plain-wordmark"></i>
           
             <i class="devicon-webpack-plain-wordmark"></i>
-          
+           <i class="devicon-bootstrap-plain-wordmark"></i>
             
           
           
