@@ -10,7 +10,7 @@
   <img height="50" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://github.com/melisen">
-  <img height="50" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
  
 
