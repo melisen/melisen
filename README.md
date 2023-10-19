@@ -49,6 +49,8 @@
           
             <i class="devicon-webpack-plain-wordmark"></i>
           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" />
+          
           
           
             <i class="devicon-npm-original-wordmark"></i>
