@@ -4,10 +4,10 @@
   <img height="50" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
   <a href="https://www.linkedin.com/in/melina-senorans-perez/">
-  <img height="50" src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
     <a href="https://twitter.com/MelinaSenorans">
-  <img height="50" src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://github.com/melisen">
   <img height="50" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
