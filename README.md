@@ -7,7 +7,7 @@
   <img height="50" src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
     <a href="https://twitter.com/MelinaSenorans">
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-1024.png" />
+  <img height="50" src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://github.com/melisen">
   <img height="50" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
