@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=200&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=40&fontColor=f6d9f6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=100&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=40&fontColor=f6d9f6" />
 </p>
 <div align="center">
   <a href="https://www.instagram.com/_._melina_._._">
