@@ -13,7 +13,7 @@
 
 
 <div>
-  <h3 align="center">Tools I use:</h3>
+  <h2>Tools I use:</h2>
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />     
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
