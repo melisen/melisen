@@ -1,7 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=300&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=50&fontColor=f6d9f6&desc=melisen)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=200&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=50&fontColor=f6d9f6&desc=melisen" />
+</p>
 <div align="center">
-      
   <a href="https://www.instagram.com/_._melina_._._">
   <img height="60" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
@@ -16,8 +18,9 @@
 </a>
  
 <h1> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h1>
-<div style="background-color:#ffff">
-   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />          
+
+<div>
+<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />          
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
