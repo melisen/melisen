@@ -16,12 +16,13 @@
   <img height="60" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
  
-<h2> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h2>                                                           
+                                                            
 </div>
 <p>:first_quarter_moon_with_face: My name is Melina Señoráns Pérez</p>
 <p> :house: Located in Buenos Aires, Argentina</p>
 <p> :purple_heart: :computer:  Fields of interest: Web Development, UX/UI, Databases</p>
 <p> :raising_hand: Looking to colaborate on full stack MERN projects</p>
+<p> <img height="12" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" />  melisenoransperez@gmail.com</p>
 <p><img height="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Currently working on free-lance website development (React.js)</p>
 <p> :books:Book lover</p>
 
