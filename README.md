@@ -16,7 +16,8 @@
   <img height="60" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
  
-<h2> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h2>
+<h2> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h2>                                                           
+</div>
 
 - :first_quarter_moon_with_face: Name: Melina Señoráns Pérez
 - 34
@@ -26,8 +27,8 @@
 - :raising_hand: Looking to colaborate on
 - <img height="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Currently working on free-lance website development (React.js)
 - :books:Book lover
-                                                           
-</div>
+
+
 <div>
   <h3 align="left">Tools I use:</h3>
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />          
