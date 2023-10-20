@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=100&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=30&fontColor=f6d9f6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=80&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=30&fontColor=f6d9f6" />
 </p>
 
 
@@ -20,7 +20,7 @@
 </a>                                                       
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=100&align=center&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=80&align=center&section=footer" />
 </p>
 
 <h2>:wave: Hi! My name is Melina </h2>
