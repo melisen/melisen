@@ -18,6 +18,8 @@
  
 <h1> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h1>
 
+                                                           
+</div>
 <div>
   <h2>Tools I use:</h2>
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />          
@@ -44,10 +46,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   
-</div>
-
-
-                                                            
 </div>
 
         
