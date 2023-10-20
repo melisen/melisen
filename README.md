@@ -45,32 +45,19 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   
+<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />   
 </div>
 
-        
+:first_quarter_moon_with_face: Name: Melina Señoráns Pérez
+34
+:house: Located in Buenos Aires, Argentina
+:mortar_board: Education:
+:purple_heart: :computer:  Fields of interest: Web Development, UX/UI, Databases
+:raising_hand: Looking to colaborate on
+ <img height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Currently working on free-lance website development (React.js)
+:books:Book lover
 
-          
-            <i class="devicon-slack-plain-wordmark"></i>
-            
-            <i class="devicon-trello-plain-wordmark"></i>
-          
-            <i class="devicon-socketio-original-wordmark"></i>
-          
-            <i class="devicon-vscode-plain-wordmark"></i>
-          
-            <i class="devicon-webpack-plain-wordmark"></i>
-           <i class="devicon-bootstrap-plain-wordmark"></i>
-            
-          
-          
-          
-            <i class="devicon-npm-original-wordmark"></i>
-          
- 
-
-
-
+  
 <!--
 **melisen/melisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
