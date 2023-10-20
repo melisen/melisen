@@ -19,6 +19,9 @@
   <img height="30" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>                                                       
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=100&align=center&section=footer" />
+</p>
 
 <h2>:wave: Hi! My name is Melina </h2>
 <p> :house: Located in Buenos Aires, Argentina</p>
