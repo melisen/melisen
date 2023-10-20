@@ -19,14 +19,14 @@
 <h2> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h2>                                                           
 </div>
 
-- :first_quarter_moon_with_face: Name: Melina Señoráns Pérez
-- 34
-- :house: Located in Buenos Aires, Argentina
-- :mortar_board: Education:
-- :purple_heart: :computer:  Fields of interest: Web Development, UX/UI, Databases
-- :raising_hand: Looking to colaborate on
-- <img height="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Currently working on free-lance website development (React.js)
-- :books:Book lover
+ :first_quarter_moon_with_face: Name: Melina Señoráns Pérez
+ 34
+ :house: Located in Buenos Aires, Argentina
+:mortar_board: Education:
+ :purple_heart: :computer:  Fields of interest: Web Development, UX/UI, Databases
+ :raising_hand: Looking to colaborate on
+ <img height="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Currently working on free-lance website development (React.js)
+ :books:Book lover
 
 
 <div>
