@@ -1,7 +1,3 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=120&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=35&fontColor=f6d9f6" />
-</p>
 <div align="center">
   <a href="https://www.instagram.com/_._melina_._._">
   <img height="50" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -14,10 +10,13 @@
 </a>
 <a href="https://github.com/melisen">
   <img height="50" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
-</a>
- 
-                                                            
+</a>                                                       
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=200&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=35&fontColor=f6d9f6" />
+</p>
+
+
 <p>:first_quarter_moon_with_face: My name is Melina Señoráns Pérez</p>
 <p> :house: Located in Buenos Aires, Argentina</p>
 <p> :purple_heart: :computer:  Fields of interest: Web Development, UX/UI, Databases</p>
