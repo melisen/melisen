@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=150&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=30&fontColor=f6d9f6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=120&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=30&fontColor=f6d9f6" />
 </p>
 
 <p>:wave: Hi! My name is Melina </p>
