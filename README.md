@@ -4,16 +4,16 @@
 </p>
 <div align="center">
   <a href="https://www.instagram.com/_._melina_._._">
-  <img height="40" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
   <a href="https://www.linkedin.com/in/melina-senorans-perez/">
-  <img height="40" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
     <a href="https://twitter.com/MelinaSenorans">
-  <img height="40" src="https://img.shields.io/badge/-000000??style=for-the-badge&logo=X&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/-000000??style=for-the-badge&logo=X&logoColor=white" />
 </a>
 <a href="https://github.com/melisen">
-  <img height="40" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
  
                                                             
