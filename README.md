@@ -1,22 +1,24 @@
 
-<div align="center">
-  <a href="https://www.instagram.com/_._melina_._._">
-  <img height="30" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-  <a href="https://www.linkedin.com/in/melina-senorans-perez/">
-  <img height="30" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-    <a href="https://twitter.com/MelinaSenorans">
-  <img height="30" src="https://img.shields.io/badge/-000000??style=for-the-badge&logo=X&logoColor=white" />
-</a>
-<a href="https://github.com/melisen">
-  <img height="30" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
-</a>                                                       
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=100&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=30&fontColor=f6d9f6" />
 </p>
+
+
+<div align="center">
+  <a href="https://www.instagram.com/_._melina_._._">
+  <img height="25" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+  <a href="https://www.linkedin.com/in/melina-senorans-perez/">
+  <img height="25" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+    <a href="https://twitter.com/MelinaSenorans">
+  <img height="25" src="https://img.shields.io/badge/-000000??style=for-the-badge&logo=X&logoColor=white" />
+</a>
+<a href="https://github.com/melisen">
+  <img height="25" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
+</a>                                                       
+</div>
 
 <h2>:wave: Hi! My name is Melina </h2>
 <p> :house: Located in Buenos Aires, Argentina</p>
