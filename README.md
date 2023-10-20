@@ -1,5 +1,15 @@
 
 
+<h2>:wave: Hi! My name is Melina </h2>
+<p> :house: Located in Buenos Aires, Argentina</p>
+<p> :purple_heart: :computer:  Fields of interest: Web Development, UX/UI, Databases</p>
+<p> :raising_hand: Looking to colaborate on full stack MERN projects</p>
+<p> <img height="16" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" />  melisenoransperez@gmail.com</p>
+<p><img height="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Currently working on free-lance website development (React.js)</p>
+<p> :books:Book lover</p>
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=80&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=30&fontColor=f6d9f6" />
 </p>
@@ -22,14 +32,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=80&align=center&section=footer" />
 </p>
-
-<h2>:wave: Hi! My name is Melina </h2>
-<p> :house: Located in Buenos Aires, Argentina</p>
-<p> :purple_heart: :computer:  Fields of interest: Web Development, UX/UI, Databases</p>
-<p> :raising_hand: Looking to colaborate on full stack MERN projects</p>
-<p> <img height="16" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" />  melisenoransperez@gmail.com</p>
-<p><img height="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Currently working on free-lance website development (React.js)</p>
-<p> :books:Book lover</p>
 
 <div>
   <h3 align="left">Tools I use:</h3>
