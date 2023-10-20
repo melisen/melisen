@@ -16,12 +16,12 @@
   <img height="60" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
  
-<h1> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h1>
+<h2> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h2>
 
                                                            
 </div>
 <div>
-  <h2 align="left">Tools I use:</h2>
+  <h3 align="left">Tools I use:</h3>
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />          
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
