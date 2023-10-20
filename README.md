@@ -1,6 +1,8 @@
 
             
-          
+    
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+              
            
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:380b58,100:d372d3&height=300&align=center&section=header&text=Let's%20connect%20and%20have%20a%20chat&fontSize=50&fontColor=f6d9f6&desc=melisen)
 
@@ -20,6 +22,10 @@
 </a>
  
 <h1> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h1>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+          
+
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg"  />
 
 </div>
@@ -31,7 +37,7 @@
             <i class="devicon-figma-plain"></i>            
             <i class="devicon-materialui-plain"></i>          
             <i class="devicon-javascript-plain"></i>            
-            <i class="devicon-react-original-wordmark"></i>          
+<i class="devicon-react-original-wordmark"></i>          
           
           
           
