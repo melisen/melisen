@@ -18,10 +18,9 @@
  
 <h2> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h2>                                                           
 </div>
+<p>:first_quarter_moon_with_face: Name: Melina Señoráns Pérez</p>
+<p> :house: Located in Buenos Aires, Argentina</p>
 
- :first_quarter_moon_with_face: Name: Melina Señoráns Pérez
- 34
- :house: Located in Buenos Aires, Argentina
 :mortar_board: Education:
  :purple_heart: :computer:  Fields of interest: Web Development, UX/UI, Databases
  :raising_hand: Looking to colaborate on
