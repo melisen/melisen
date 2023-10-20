@@ -20,12 +20,17 @@
 </div>
 <p>:first_quarter_moon_with_face: Name: Melina Señoráns Pérez</p>
 <p> :house: Located in Buenos Aires, Argentina</p>
+<p>:mortar_board: Education:</p>
+<p> :purple_heart: :computer:  Fields of interest: Web Development, UX/UI, Databases</p>
+<p> :raising_hand: Looking to colaborate on</p>
+<p><img height="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Currently working on free-lance website development (React.js)</p>
+<p> :books:Book lover</p>
 
-:mortar_board: Education:
- :purple_heart: :computer:  Fields of interest: Web Development, UX/UI, Databases
- :raising_hand: Looking to colaborate on
- <img height="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Currently working on free-lance website development (React.js)
- :books:Book lover
+
+
+
+ 
+
 
 
 <div>
