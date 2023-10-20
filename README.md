@@ -18,24 +18,16 @@
  
 <h2> <span><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" /> </span> melisenoransperez@gmail.com </h2>                                                           
 </div>
-<p>:first_quarter_moon_with_face: Name: Melina Señoráns Pérez</p>
+<p>:first_quarter_moon_with_face: My name is Melina Señoráns Pérez</p>
 <p> :house: Located in Buenos Aires, Argentina</p>
-<p>:mortar_board: Education:</p>
 <p> :purple_heart: :computer:  Fields of interest: Web Development, UX/UI, Databases</p>
-<p> :raising_hand: Looking to colaborate on</p>
+<p> :raising_hand: Looking to colaborate on full stack MERN projects</p>
 <p><img height="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Currently working on free-lance website development (React.js)</p>
 <p> :books:Book lover</p>
 
-
-
-
- 
-
-
-
 <div>
   <h3 align="left">Tools I use:</h3>
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />          
+<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />     
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
